@@ -1,5 +1,5 @@
 # sgroup-buoi-4
-  - slot: 
+- slot: 
   + Với trường hợp chỉ 1 slot: Nếu không có name thì code sẽ mặc định vào slot đó
   + Với trường hợp nhiều slot: sử dung name để định danh slot đó, và sử dụng <template v-slot: > bên html
   + Code trong template sẽ ghi đè lại code trong slot bên file js
@@ -12,3 +12,6 @@
 - Vue CLI: là một hệ thống cung cấp các tính năng và môi trường giúp làm việc hiệu quả hơn với VueJs như: show error, runtime dependency,...
   + Tạo project: vue create [name_prj]
   + Vue router: chuyển đổi component khi path thay đổi
+- 
+  
+  

@@ -1,4 +1,5 @@
 # sgroup-buoi-4
+- tổng hợp kiến thức:
 - slot: 
   + Với trường hợp chỉ 1 slot: Nếu không có name thì code sẽ mặc định vào slot đó
   + Với trường hợp nhiều slot: sử dung name để định danh slot đó, và sử dụng <template v-slot: > bên html
